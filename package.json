@@ -1,0 +1,23 @@
+{
+  "name": "exercises",
+  "version": "1.0.0",
+  "description": "Some code exercises for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ./src/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aburd/exercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aburd/exercises/issues"
+  },
+  "homepage": "https://github.com/aburd/exercises#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
