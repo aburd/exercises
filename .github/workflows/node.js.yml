@@ -23,4 +23,4 @@ jobs:
             # Runs pnpm install and then builds it using tsc (typescript compiler)
             - uses: creepinson/pnpm-action@master
               with:
-                  arguments: '["install", "build"]'
+                  arguments: '["test"]'
